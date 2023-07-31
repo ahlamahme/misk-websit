@@ -1,0 +1,37 @@
+p{
+}
+
+.item{
+  text-align: center;
+
+}
+.row{
+
+    margin: 100px;
+   background: white; 
+   box-shadow: 2px 2px 20px rgba(43, 43, 43, 0.15); 
+   border-radius: 30px
+
+}
+.fix-issu{
+
+  padding: 0.50rem;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  
+}
+.img{
+
+  margin-top: 50px;
+  
+}
+h1{
+
+color: #00B79D;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 700;
+ line-height: 34px;
+ word-wrap: break-word
+}
+

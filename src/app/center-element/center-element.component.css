@@ -1,0 +1,107 @@
+.my-div{
+    background: linear-gradient(90deg, #0E4E66 1.39%, #00B79D 100%);
+   
+
+    
+}
+.get-in-touch-btn{
+   background-color: #13BCA4;
+    border: none;
+    margin-top: 50px;
+  
+}
+
+
+.card-container{
+
+
+   position: relative;
+  
+   top: 100px;
+   left: 0;
+   z-index: 10;
+}
+
+    
+.card {
+        color: #00B79D;;
+        float: left;
+        width: calc(18% - 20px);
+        padding:15px;
+        border-radius: 20px;
+        margin: 50px;
+        align-items: center;
+        
+        
+        
+}
+.card p {
+        font-size: 20px;
+      }
+.card-container:after {
+        content: "";
+        display: table;
+        clear: both;
+        overflow: auto;
+        
+}
+.card h2 {
+       font-size: 50px;
+       font-weight: bold;
+       
+    
+    
+    
+     }
+     @media screen and (max-width: 600px) {
+        .card {
+           width: 100%;
+           background-color:#FFFFFF;
+        }
+     }
+     
+
+.container{
+
+
+   padding: 50px;
+   
+}
+.two-part{
+   color:white;
+   
+}
+.text-border{
+   margin-top: 50px;
+   border-left: #FFFFFF solid 5px;
+   padding-left: 30px;
+
+
+}
+
+.with-us-effect{
+
+ font-size: 44px;
+ font-family: Poppins;
+ font-weight: 700;
+ line-height: 56px;
+ word-wrap: break-word
+}
+.Success {
+   color: #13BCA4;
+   font-size: 44px;
+   font-family: Poppins;
+   font-weight: 700;
+   line-height: 56px;
+   word-wrap: break-word; 
+    border-bottom: 1px solid black;
+     transform: rotate(-180deg); 
+     transform-origin: 0 0;
+     border-bottom: 4px #13BCA4 solid;
+     border-bottom-right-radius:  50%  ;
+     border-bottom-left-radius: 50% ;
+     padding: 10px;
+
+ }
+ 
+ 

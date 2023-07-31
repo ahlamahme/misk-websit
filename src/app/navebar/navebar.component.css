@@ -1,0 +1,35 @@
+.btn-primary {
+
+  margin: 10px;
+  margin-top: auto;
+}
+.whith-bg {
+
+    background-color: white;
+}
+
+
+.navbar-nav .nav-link {
+
+    color:#2A6A84;
+  }
+
+  .dropdown-item {
+    color: #2A6A84;
+  }
+  .btn-singin{
+
+    background-color: white;
+    
+  }
+
+  .btn-singin {
+    color: #2A6A84;
+    border: 1px solid black;
+  }
+  .btn-singup{
+
+    background-color:#2A6A84 ;
+    border: #2A6A84;
+  }
+  

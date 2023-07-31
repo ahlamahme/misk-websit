@@ -1,0 +1,95 @@
+*
+{box-sizing: border-box;}
+.many-img{
+
+
+    margin: 40px ;
+}
+.many-container 
+{
+padding: 50px;
+
+
+}
+.text-beside-image{
+
+    width: 60%;
+}
+
+.image-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  
+  .image-text-container img {
+    max-width: 100%;
+  }
+  
+  .text-container {
+    flex: 1;
+  }
+  .col-md-4{
+    width: 50%;
+
+
+  }
+  .many-years{
+
+color: #00B79D;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 29.40px;
+ word-wrap: break-word
+  }
+  .preparing{
+    color: #303030;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 42px;
+    word-wrap: break-word 
+
+  }
+.it-sol{
+    color: #2A6A84;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 42px;
+    word-wrap: break-word 
+}
+.we-are{
+
+    
+    color: #8898AA;
+     font-size: 20px;
+     font-family: Poppins;
+     font-weight: 400;
+     line-height: 29.40px;
+     word-wrap: break-word
+
+
+}
+.lets-talk-btn
+{
+    background-color:#2A6A84 ;
+    border: none;
+}
+.text-container p{
+
+    color: #8898AA;;
+}
+.img{
+
+
+    border-radius: 50% ;
+
+    background: rgba(0, 183, 157, 0.10); 
+box-shadow: 0px 0px 30px 5px rgba(165, 215, 217, 0.5); 
+
+
+
+}
